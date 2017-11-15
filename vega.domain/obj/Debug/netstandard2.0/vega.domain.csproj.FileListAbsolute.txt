@@ -1,0 +1,11 @@
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.domain\bin\Debug\netstandard2.0\vega.domain.deps.json
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.domain\bin\Debug\netstandard2.0\vega.domain.dll
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.domain\bin\Debug\netstandard2.0\vega.domain.pdb
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.domain\obj\Debug\netstandard2.0\vega.domain.csproj.CoreCompileInputs.cache
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.domain\obj\Debug\netstandard2.0\vega.domain.AssemblyInfoInputs.cache
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.domain\obj\Debug\netstandard2.0\vega.domain.AssemblyInfo.cs
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.domain\obj\Debug\netstandard2.0\vega.domain.dll
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.domain\obj\Debug\netstandard2.0\vega.domain.pdb
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.domain\obj\Debug\netstandard2.0\vega.domain.csprojResolveAssemblyReference.cache
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml

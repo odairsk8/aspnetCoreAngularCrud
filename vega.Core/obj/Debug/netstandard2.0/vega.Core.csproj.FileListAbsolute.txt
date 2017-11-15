@@ -1,0 +1,8 @@
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.Core\obj\Debug\netstandard2.0\vega.Core.csproj.CoreCompileInputs.cache
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.Core\obj\Debug\netstandard2.0\vega.Core.AssemblyInfoInputs.cache
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.Core\obj\Debug\netstandard2.0\vega.Core.AssemblyInfo.cs
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.Core\bin\Debug\netstandard2.0\vega.Core.deps.json
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.Core\bin\Debug\netstandard2.0\vega.Core.dll
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.Core\bin\Debug\netstandard2.0\vega.Core.pdb
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.Core\obj\Debug\netstandard2.0\vega.Core.dll
+C:\Users\Odair\Documents\ESTUDO\ASPNET CORE\vega.Core\obj\Debug\netstandard2.0\vega.Core.pdb
